@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # 🎮 Jogo Pedra, Papel e Tesoura (Python)
 
 Este projeto é um jogo de Jokenpô simples desenvolvido em Python para praticar lógica de programação e manipulação de dados.
